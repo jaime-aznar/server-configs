@@ -2,7 +2,7 @@ spring:
   datasource: 
     username: dummy
     password: password
-    url: jdbc:mysql://localhost:3306/Agencia
+    url: jdbc:mysql://192.168.1.149:3306/Agencia
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa: 
     hibernate:
